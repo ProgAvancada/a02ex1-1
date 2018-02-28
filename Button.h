@@ -1,6 +1,11 @@
 #ifndef BUTTON_H
 #define BUTTON_H
 
+/*
+ Nesta implementação é a própria classe Button que faz o desenho. Utilizamos a propriedade isSquareButton
+ para indicar se será desenhado um quadrado ou um círculo, conforme pede o enunciado do exercício.
+ */
+
 class Button
 {
 private:
