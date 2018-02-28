@@ -1,5 +1,4 @@
-# a02ex1-1
-Resolução do exercício 1 - "fazendo funcionar"
+# Resolução do exercício 1 - "fazendo funcionar"
 
 Esse repositório mostra uma possível solução para a atividade proposta na aula 1:
 
